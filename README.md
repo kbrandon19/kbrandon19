@@ -25,7 +25,7 @@
 - I enjoy bringing a static design or idea to life and learning new technologies.
 - Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
 - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
-- Currently working on a web application for film photography 
+- Currently working on a web application for film photography and for international travel
 
 <br>
 
