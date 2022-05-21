@@ -1,5 +1,7 @@
 <div align="center">
+  <div style="background:#000000;">
 <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" />
+  </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kdbrand">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
