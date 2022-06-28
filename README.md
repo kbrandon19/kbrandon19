@@ -67,3 +67,5 @@
   
   <h2>Talk to you soon!</h2>
 </div>
+
+![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
