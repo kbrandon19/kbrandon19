@@ -1,22 +1,13 @@
 <div align="center">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
+</div>
+
+---
+
+<div align="center">
   <div style="background:#000000;">
 <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" />
   </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kdbrand">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
-  <a href="https://www.twitter.com/mrdebonairfox">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/mrdebonairfox">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge"/>
-  </a>&nbsp;
-  <a href="mailto:kbrandon319@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b&?logo=gmail" alt="Email Badge"/>
-  </a>&nbsp;
-  <br><br><br><br>
-</div>
 </div>
 
 # Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
@@ -33,8 +24,8 @@
 
 ---
 
-#### :hammer_and_wrench: Languages and Tools :
-
+#### :hammer_and_wrench: LANGUAGES & TOOLS :
+<div align="center">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,14 +35,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  
-  
+ 
+</div>
 </div>
 
 ---
 
-#### :book: Currently Learning :
+#### :book: CURRENTLY LEARNING :
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  </div>
 
 ---
 
@@ -70,6 +63,7 @@
   <a href="mailto:kbrandon319@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
+  
   
   <h2>Talk to you soon!</h2>
 </div>
