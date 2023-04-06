@@ -4,11 +4,7 @@
 
 ---
 
-<div align="center">
-  <div style="background:#000000;">
-<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" />
-  </div>
-</div>
+
 
 # Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
 
