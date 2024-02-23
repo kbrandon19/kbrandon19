@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
-<br><br>
+<br>
 
-<div align="center">
+<div align="left">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
 </div>
 
