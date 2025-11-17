@@ -11,14 +11,35 @@
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
-
-### About Me
-Welcome to my world of creative domain, I am a Frontend Web Developer, Email Design Specialist, and Creative Designer doing all things creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.
-
-### Experience
-I have over 5 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting _reusable email components_, _building mobile-responsive campaigns_, and _designing impactful digital ads_ for content creation. My contributions as an Open Source Contributor involve ensuring accessibility and providing valuable resources to support the initiatives of veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+I’m Kenneth, a Frontend Web Developer, Email Design Specialist, and Creative Designer with over 5 years of experience blending design, development, and visual storytelling. I transform static concepts into dynamic, responsive, and SEO-friendly digital experiences, focusing on performance, creativity, and accessibility.
 
 
+## What I Do
+
+#### 🎨Creative Development & Design
+
+I specialize in analyzing and translating creative concepts into functional, visually engaging digital products. Whether it’s websites, digital ads, or content assets, I aim to craft experiences that feel thoughtful and intentional.
+
+#### 💻 Frontend Engineering
+
+Using modern front-end technologies, I build clean, modular, and scalable interfaces. From landing pages to full web builds, I focus on usability, responsiveness, and speed.
+
+#### ✉️ Email Design & Development
+
+I’ve mastered building reusable components, responsive layouts, and polished email campaigns that work consistently across clients and devices.
+
+#### 🌱 Open Source Contribution
+
+As part of the veteran tech community, I contribute to open-source projects centered on accessibility, documentation, and helping others break into tech.
+
+
+
+## 🌱 Continuous Learning
+In this ever-evolving field, I believe in the power of continuous learning and adaptation. I regularly dedicate time to exploring new technologies, participating in coding challenges, and attending online workshops. This commitment to growth ensures that I'm always equipped with the latest knowledge and best practices to tackle any project.
+
+## 🤝 Let’s Connect
+
+Whether you’re building digital products, refining your brand, or looking for a collaborator in web design and development, I’d love to connect and contribute.
 <br><br>
 
 
@@ -61,11 +82,7 @@ My toolkit includes, but is not limited to:
 
 <br><br><br>
 
-### 🌱 Continuous Learning
-In this ever-evolving field, I believe in the power of continuous learning and adaptation. I regularly dedicate time to exploring new technologies, participating in coding challenges, and attending online workshops. This commitment to growth ensures that I'm always equipped with the latest knowledge and best practices to tackle any project.
 
-### 🤝 Let's Connect
-I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
 
 <div id="badges" align="center">
   <br><br>
